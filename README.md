@@ -1,6 +1,4 @@
-Claro! Aqui está o README com emojis adicionados para torná-lo mais visualmente atraente:
 
----
 
 # To-Do List App ✅📝
 
@@ -52,7 +50,3 @@ Contribuições são bem-vindas! Se você tem alguma sugestão de melhoria, abra
 ## Licença 📄
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Sinta-se à vontade para adicionar mais detalhes sobre como usar o aplicativo, capturas de tela, instruções de desenvolvimento e qualquer outra informação relevante para os usuários e colaboradores.
